@@ -1,0 +1,14 @@
+{
+  "background": "#1e1e1e",
+  "foreground": "#d4d4d4",
+  "insertbackground": "#ffffff",
+  "selectbackground": "#264f78",
+  "keyword": "#569cd6",
+  "definition": "#4ec9b0",
+  "comment": "#6a9955",
+  "string": "#ce9178",
+  "builtin": "#c586c0",
+  "number": "#b5cea8",
+  "operator": "#d4d4d4",
+  "error": "#f44747"
+}

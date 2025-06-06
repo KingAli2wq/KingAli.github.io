@@ -1,0 +1,17 @@
+{
+    "background": "#002b36",
+    "foreground": "#839496",
+    "insertbackground": "#93a1a1",
+    "selectbackground": "#073642",
+    "selectforeground": "#eee8d5",
+    "linenumberbackground": "#073642",
+    "linenumberforeground": "#586e75",
+    "token_colors": {
+        "Token.Keyword": "#859900",
+        "Token.Name": "#268bd2",
+        "Token.Literal.String": "#2aa198",
+        "Token.Comment": "#586e75",
+        "Token.Operator": "#b58900",
+        "Token.Literal.Number": "#d33682"
+    }
+}
